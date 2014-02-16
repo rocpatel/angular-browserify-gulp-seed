@@ -1,0 +1,25 @@
+{
+  "name": "angular-browserify-gulp-seed",
+  "version": "0.0.1",
+  "authors": [
+    "Rakesh Patel <rpatel@onehealth.com>"
+  ],
+  "description": "Seed project for angular browserify and gulp",
+  "main": "app.js",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sass-bootstrap": "~3.0.2"
+  }
+}
