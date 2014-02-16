@@ -2,7 +2,6 @@
   require('angular/angular');
   require('angular-resource/angular-resource');
   require('angular-route/angular-route');
-  require('./doesntexists');
 
   var config = require('./config')
     ,_ = require('lodash');
