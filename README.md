@@ -1,0 +1,2 @@
+angular-browserify-gulp-seed
+============================
