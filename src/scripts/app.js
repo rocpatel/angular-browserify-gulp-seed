@@ -1,6 +1,6 @@
-require('angular/angular');
-require('angular-resource/angular-resource');
-require('angular-route/angular-route');
+require('ng');
+require('ngResource');
+require('ngRoute');
 
 var config = require('./config')
   , _ = require('lodash');

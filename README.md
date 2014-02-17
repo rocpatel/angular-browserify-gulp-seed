@@ -6,9 +6,6 @@ Seed project that uses angular, browserify, and gulp
 ```
 #install npm dependencies
 npm install
-
-./node_modules/.bin/bower install
-
 ```
 
 ##Setup

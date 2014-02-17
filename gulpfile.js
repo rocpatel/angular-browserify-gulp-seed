@@ -1,4 +1,6 @@
-var gulp = require('gulp');
+var gulp = require('gulp')
+  ,pkg = require('./package.json');
+
 require('gulp-load')(gulp);
 
 gulp.loadTasks(__dirname);

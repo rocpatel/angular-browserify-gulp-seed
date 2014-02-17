@@ -20,6 +20,9 @@
     "tests"
   ],
   "dependencies": {
-    "sass-bootstrap": "~3.0.2"
+    "sass-bootstrap": "~3.0.2",
+    "angular": "~1.2.13",
+    "angular-route": "~1.2.13",
+    "angular-resource": "~1.2.13"
   }
 }
